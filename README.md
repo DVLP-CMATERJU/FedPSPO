@@ -1,4 +1,4 @@
-# FedPSPO: Federated Proximal Smoothing Policy Optimization for Medical Image Classification
+# FedPSPO: Reinforcement-Driven Hyperparameter Adaptation for Federated Medical Image Classification under Non-IID Data
 
 > Reinforcement learning-based adaptive federated learning for privacy-preserving medical image classification
 
@@ -250,7 +250,7 @@ If you use this code, please cite:
 
 ```bibtex
 @inproceedings{FedPSPO2026,
-  title     = {FedPSPO: Federated Proximal Smoothing Policy Optimization for Medical Image Classification},
+  title     = {FedPSPO: Reinforcement-Driven Hyperparameter Adaptation for Federated Medical Image Classification under Non-IID Data},
   author    = {Author names},
   booktitle = {Proceedings of the International Conference on Recent Challenges in Computational Intelligence and Networks (ICRCICN)},
   year      = {2026}
